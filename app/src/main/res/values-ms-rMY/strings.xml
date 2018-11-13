@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 3.2 Resources</string>
+    <string name="message">"Oi "</string>
+    <string name="show">"lihat la "</string>
+</resources>
